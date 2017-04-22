@@ -1,4 +1,7 @@
-# test coverage for  [gulp-add-src (v0.2.0)](https://github.com/urish/gulp-add-src)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-add-src.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-add-src) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-add-src.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-add-src)
+# npmtest-gulp-add-src
+
+#### basic test coverage for  [gulp-add-src (v0.2.0)](https://github.com/urish/gulp-add-src)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-add-src.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-add-src) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-add-src.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-add-src)
+
 #### Add more 'src' files at any point in the pipeline (gulp plugin)
 
 [![NPM](https://nodei.co/npm/gulp-add-src.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-add-src)
@@ -78,7 +81,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.2.0"
+    "version": "0.2.0",
+    "bin": {}
 }
 ```
 
